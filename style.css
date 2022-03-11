@@ -1,0 +1,21 @@
+.my-style {
+    background-color: #c9D8B9;
+    color: #57837B;
+}
+
+#my-id {
+    background-color: #FDD2BF;  
+    color: #DF5E5E;
+}
+
+p {
+    background-color: #CDF0EA;
+    color: #476072;
+}
+
+h1 {
+    color: #000;
+} /* don't override the things*/
+
+/*it necessary to follow the rules of spaces
+ make the unique id */
